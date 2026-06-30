@@ -3,7 +3,7 @@
 Static academic homepage for [yuhongwa.github.io](https://yuhongwa.github.io).
 
 - Plain HTML, CSS, and JavaScript
-- English by default with a Chinese language switch
+- English academic content
 - No build step required
 
 GitHub Pages can publish this repository directly from the `main` branch.
